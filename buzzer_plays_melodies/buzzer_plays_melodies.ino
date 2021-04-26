@@ -42,7 +42,7 @@ const int buzzerPin = 9, OtJ_len = 62, MG_len = 276;
 Note MG[MG_len];
 
 
-/*void constructSong_OtJ() Ode to Joy { // Ode to Joy
+/*void constructSong_OtJ() { // Ode to Joy
     int idx = -1;
     OtJ[idx += 1] = Note(NOTE_E6, 500, 500);
     OtJ[idx += 1] = Note(NOTE_E6, 500, 500);
